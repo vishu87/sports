@@ -1,0 +1,12 @@
+table.small_in .tablesorter-filter{
+  width: 80px !important;
+}
+table.small_in input{
+  width: 80px !important;
+}
+.tablesorter-headerRow{
+	border-top: 2px solid #ddd;
+}
+textarea.form-control{
+	height: 80px;
+}

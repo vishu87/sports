@@ -1,0 +1,14 @@
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+etc
+packages
+site/*
+!site/app
+site/app/commands
+site/app/config
+site/app/database
+site/app/lang
+site/app/start
+site/app/storage
+site/app/tests
